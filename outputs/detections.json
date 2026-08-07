@@ -1,0 +1,18 @@
+[
+  {
+    "plate": "WB03MF4477",
+    "status": "Registered",
+    "confidence": 0.89,
+    "vehicle_type": "car",
+    "timestamp": "2026-07-17 13:20:54",
+    "frame": 45
+  },
+  {
+    "plate": "MH09HGXXX7",
+    "status": "Not Registered",
+    "confidence": 0.72,
+    "vehicle_type": "car",
+    "timestamp": "2026-07-17 13:24:13",
+    "frame": 675
+  }
+]
