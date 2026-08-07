@@ -52,3 +52,15 @@ Solar-Powered-Automatic-Number-Plate-Recognition-System/
 ├── README.md
 └── LICENSE
 ```
+
+---
+
+## 📸 Hardware Setup
+
+![Hardware Setup](hardware/PI_Model.jpeg) 
+
+---
+
+## 🖥️ Sample Output
+
+![OCR Output](hardware/Output.png)
